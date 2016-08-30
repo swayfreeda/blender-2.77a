@@ -1,0 +1,1414 @@
+The system is: Linux - 3.13.0-88-generic - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/2.8.12.2/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/2.8.12.2/CompilerIdCXX/a.out"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3264080259/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3264080259.dir/build.make CMakeFiles/cmTryCompileExec3264080259.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3264080259.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec3264080259.dir/testCCompiler.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTryCompileExec3264080259
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3264080259.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTryCompileExec3264080259.dir/testCCompiler.c.o  -o cmTryCompileExec3264080259 -rdynamic 
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec249158013/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec249158013.dir/build.make CMakeFiles/cmTryCompileExec249158013.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec249158013.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec249158013.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-2.8/Modules/CMakeCCompilerABI.c
+Linking C executable cmTryCompileExec249158013
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec249158013.dir/link.txt --verbose=1
+/usr/bin/cc     -v CMakeFiles/cmTryCompileExec249158013.dir/CMakeCCompilerABI.c.o  -o cmTryCompileExec249158013 -rdynamic  
+Using built-in specs.
+COLLECT_GCC=gcc.real
+COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/4.9/lto-wrapper
+Target: x86_64-linux-gnu
+Configured with: ../src/configure -v --with-pkgversion='Ubuntu 4.9.3-8ubuntu2~14.04' --with-bugurl=file:///usr/share/doc/gcc-4.9/README.Bugs --enable-languages=c,c++,java,go,d,fortran,objc,obj-c++ --prefix=/usr --program-suffix=-4.9 --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --with-gxx-include-dir=/usr/include/c++/4.9 --libdir=/usr/lib --enable-nls --with-sysroot=/ --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --enable-gnu-unique-object --disable-vtable-verify --enable-plugin --with-system-zlib --disable-browser-plugin --enable-java-awt=gtk --enable-gtk-cairo --with-java-home=/usr/lib/jvm/java-1.5.0-gcj-4.9-amd64/jre --enable-java-home --with-jvm-root-dir=/usr/lib/jvm/java-1.5.0-gcj-4.9-amd64 --with-jvm-jar-dir=/usr/lib/jvm-exports/java-1.5.0-gcj-4.9-amd64 --with-arch-directory=amd64 --with-ecj-jar=/usr/share/java/eclipse-ecj.jar --enable-objc-gc --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-multilib --with-tune=generic --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu
+Thread model: posix
+gcc version 4.9.3 (Ubuntu 4.9.3-8ubuntu2~14.04) 
+COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/4.9/:/usr/lib/gcc/x86_64-linux-gnu/4.9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/4.9/:/usr/lib/gcc/x86_64-linux-gnu/
+LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/4.9/:/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec249158013' '-rdynamic' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/4.9/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/4.9/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/4.9/lto-wrapper -plugin-opt=-fresolution=/tmp/ccI33Tfc.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTryCompileExec249158013 /usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/4.9/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/4.9 -L/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/4.9/../../.. CMakeFiles/cmTryCompileExec249158013.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/4.9/crtend.o /usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu/crtn.o
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command:/usr/bin/make "cmTryCompileExec249158013/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTryCompileExec249158013.dir/build.make CMakeFiles/cmTryCompileExec249158013.dir/build]
+  ignore line: [make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp']
+  ignore line: [/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1]
+  ignore line: [Building C object CMakeFiles/cmTryCompileExec249158013.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc    -o CMakeFiles/cmTryCompileExec249158013.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-2.8/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTryCompileExec249158013]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec249158013.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc     -v CMakeFiles/cmTryCompileExec249158013.dir/CMakeCCompilerABI.c.o  -o cmTryCompileExec249158013 -rdynamic  ]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=gcc.real]
+  ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/4.9/lto-wrapper]
+  ignore line: [Target: x86_64-linux-gnu]
+  ignore line: [Configured with: ../src/configure -v --with-pkgversion='Ubuntu 4.9.3-8ubuntu2~14.04' --with-bugurl=file:///usr/share/doc/gcc-4.9/README.Bugs --enable-languages=c,c++,java,go,d,fortran,objc,obj-c++ --prefix=/usr --program-suffix=-4.9 --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --with-gxx-include-dir=/usr/include/c++/4.9 --libdir=/usr/lib --enable-nls --with-sysroot=/ --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --enable-gnu-unique-object --disable-vtable-verify --enable-plugin --with-system-zlib --disable-browser-plugin --enable-java-awt=gtk --enable-gtk-cairo --with-java-home=/usr/lib/jvm/java-1.5.0-gcj-4.9-amd64/jre --enable-java-home --with-jvm-root-dir=/usr/lib/jvm/java-1.5.0-gcj-4.9-amd64 --with-jvm-jar-dir=/usr/lib/jvm-exports/java-1.5.0-gcj-4.9-amd64 --with-arch-directory=amd64 --with-ecj-jar=/usr/share/java/eclipse-ecj.jar --enable-objc-gc --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-multilib --with-tune=generic --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 4.9.3 (Ubuntu 4.9.3-8ubuntu2~14.04) ]
+  ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/4.9/:/usr/lib/gcc/x86_64-linux-gnu/4.9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/4.9/:/usr/lib/gcc/x86_64-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/4.9/:/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec249158013' '-rdynamic' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/4.9/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/4.9/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/4.9/lto-wrapper -plugin-opt=-fresolution=/tmp/ccI33Tfc.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTryCompileExec249158013 /usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/4.9/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/4.9 -L/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/4.9/../../.. CMakeFiles/cmTryCompileExec249158013.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/4.9/crtend.o /usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu/crtn.o]
+    arg [/usr/lib/gcc/x86_64-linux-gnu/4.9/collect2] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/4.9/liblto_plugin.so] ==> ignore
+    arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/4.9/lto-wrapper] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccI33Tfc.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [--sysroot=/] ==> ignore
+    arg [--build-id] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [--hash-style=gnu] ==> ignore
+    arg [--as-needed] ==> ignore
+    arg [-export-dynamic] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-zrelro] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTryCompileExec249158013] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu/crt1.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu/crti.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/4.9/crtbegin.o] ==> ignore
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/4.9] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/4.9]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../../lib] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../../lib]
+    arg [-L/lib/x86_64-linux-gnu] ==> dir [/lib/x86_64-linux-gnu]
+    arg [-L/lib/../lib] ==> dir [/lib/../lib]
+    arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
+    arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/4.9/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/4.9/../../..]
+    arg [CMakeFiles/cmTryCompileExec249158013.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--no-as-needed] ==> ignore
+    arg [-lc] ==> lib [c]
+    arg [-lgcc] ==> lib [gcc]
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--no-as-needed] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/4.9/crtend.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu/crtn.o] ==> ignore
+  remove lib [gcc]
+  remove lib [gcc_s]
+  remove lib [gcc]
+  remove lib [gcc_s]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/4.9] ==> [/usr/lib/gcc/x86_64-linux-gnu/4.9]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu] ==> [/usr/lib/x86_64-linux-gnu]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../../lib] ==> [/usr/lib]
+  collapse library dir [/lib/x86_64-linux-gnu] ==> [/lib/x86_64-linux-gnu]
+  collapse library dir [/lib/../lib] ==> [/lib]
+  collapse library dir [/usr/lib/x86_64-linux-gnu] ==> [/usr/lib/x86_64-linux-gnu]
+  collapse library dir [/usr/lib/../lib] ==> [/usr/lib]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/4.9/../../..] ==> [/usr/lib]
+  implicit libs: [c]
+  implicit dirs: [/usr/lib/gcc/x86_64-linux-gnu/4.9;/usr/lib/x86_64-linux-gnu;/usr/lib;/lib/x86_64-linux-gnu;/lib]
+  implicit fwks: []
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec251172045/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec251172045.dir/build.make CMakeFiles/cmTryCompileExec251172045.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec251172045.dir/testCXXCompiler.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTryCompileExec251172045.dir/testCXXCompiler.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTryCompileExec251172045
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec251172045.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTryCompileExec251172045.dir/testCXXCompiler.cxx.o  -o cmTryCompileExec251172045 -rdynamic 
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec945737497/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec945737497.dir/build.make CMakeFiles/cmTryCompileExec945737497.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec945737497.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++     -o CMakeFiles/cmTryCompileExec945737497.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-2.8/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTryCompileExec945737497
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec945737497.dir/link.txt --verbose=1
+/usr/bin/c++      -v CMakeFiles/cmTryCompileExec945737497.dir/CMakeCXXCompilerABI.cpp.o  -o cmTryCompileExec945737497 -rdynamic  
+Using built-in specs.
+COLLECT_GCC=g++.real
+COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/4.9/lto-wrapper
+Target: x86_64-linux-gnu
+Configured with: ../src/configure -v --with-pkgversion='Ubuntu 4.9.3-8ubuntu2~14.04' --with-bugurl=file:///usr/share/doc/gcc-4.9/README.Bugs --enable-languages=c,c++,java,go,d,fortran,objc,obj-c++ --prefix=/usr --program-suffix=-4.9 --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --with-gxx-include-dir=/usr/include/c++/4.9 --libdir=/usr/lib --enable-nls --with-sysroot=/ --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --enable-gnu-unique-object --disable-vtable-verify --enable-plugin --with-system-zlib --disable-browser-plugin --enable-java-awt=gtk --enable-gtk-cairo --with-java-home=/usr/lib/jvm/java-1.5.0-gcj-4.9-amd64/jre --enable-java-home --with-jvm-root-dir=/usr/lib/jvm/java-1.5.0-gcj-4.9-amd64 --with-jvm-jar-dir=/usr/lib/jvm-exports/java-1.5.0-gcj-4.9-amd64 --with-arch-directory=amd64 --with-ecj-jar=/usr/share/java/eclipse-ecj.jar --enable-objc-gc --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-multilib --with-tune=generic --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu
+Thread model: posix
+gcc version 4.9.3 (Ubuntu 4.9.3-8ubuntu2~14.04) 
+COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/4.9/:/usr/lib/gcc/x86_64-linux-gnu/4.9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/4.9/:/usr/lib/gcc/x86_64-linux-gnu/
+LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/4.9/:/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec945737497' '-rdynamic' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/4.9/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/4.9/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/4.9/lto-wrapper -plugin-opt=-fresolution=/tmp/cctbBGho.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTryCompileExec945737497 /usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/4.9/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/4.9 -L/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/4.9/../../.. CMakeFiles/cmTryCompileExec945737497.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/4.9/crtend.o /usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu/crtn.o
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command:/usr/bin/make "cmTryCompileExec945737497/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTryCompileExec945737497.dir/build.make CMakeFiles/cmTryCompileExec945737497.dir/build]
+  ignore line: [make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp']
+  ignore line: [/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1]
+  ignore line: [Building CXX object CMakeFiles/cmTryCompileExec945737497.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/c++     -o CMakeFiles/cmTryCompileExec945737497.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-2.8/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTryCompileExec945737497]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec945737497.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++      -v CMakeFiles/cmTryCompileExec945737497.dir/CMakeCXXCompilerABI.cpp.o  -o cmTryCompileExec945737497 -rdynamic  ]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=g++.real]
+  ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/4.9/lto-wrapper]
+  ignore line: [Target: x86_64-linux-gnu]
+  ignore line: [Configured with: ../src/configure -v --with-pkgversion='Ubuntu 4.9.3-8ubuntu2~14.04' --with-bugurl=file:///usr/share/doc/gcc-4.9/README.Bugs --enable-languages=c,c++,java,go,d,fortran,objc,obj-c++ --prefix=/usr --program-suffix=-4.9 --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --with-gxx-include-dir=/usr/include/c++/4.9 --libdir=/usr/lib --enable-nls --with-sysroot=/ --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --enable-gnu-unique-object --disable-vtable-verify --enable-plugin --with-system-zlib --disable-browser-plugin --enable-java-awt=gtk --enable-gtk-cairo --with-java-home=/usr/lib/jvm/java-1.5.0-gcj-4.9-amd64/jre --enable-java-home --with-jvm-root-dir=/usr/lib/jvm/java-1.5.0-gcj-4.9-amd64 --with-jvm-jar-dir=/usr/lib/jvm-exports/java-1.5.0-gcj-4.9-amd64 --with-arch-directory=amd64 --with-ecj-jar=/usr/share/java/eclipse-ecj.jar --enable-objc-gc --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-multilib --with-tune=generic --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 4.9.3 (Ubuntu 4.9.3-8ubuntu2~14.04) ]
+  ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/4.9/:/usr/lib/gcc/x86_64-linux-gnu/4.9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/4.9/:/usr/lib/gcc/x86_64-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/4.9/:/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTryCompileExec945737497' '-rdynamic' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/4.9/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/4.9/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/4.9/lto-wrapper -plugin-opt=-fresolution=/tmp/cctbBGho.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTryCompileExec945737497 /usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/4.9/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/4.9 -L/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/4.9/../../.. CMakeFiles/cmTryCompileExec945737497.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/4.9/crtend.o /usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu/crtn.o]
+    arg [/usr/lib/gcc/x86_64-linux-gnu/4.9/collect2] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/4.9/liblto_plugin.so] ==> ignore
+    arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/4.9/lto-wrapper] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/cctbBGho.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [--sysroot=/] ==> ignore
+    arg [--build-id] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [--hash-style=gnu] ==> ignore
+    arg [--as-needed] ==> ignore
+    arg [-export-dynamic] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-zrelro] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTryCompileExec945737497] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu/crt1.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu/crti.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/4.9/crtbegin.o] ==> ignore
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/4.9] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/4.9]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../../lib] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../../lib]
+    arg [-L/lib/x86_64-linux-gnu] ==> dir [/lib/x86_64-linux-gnu]
+    arg [-L/lib/../lib] ==> dir [/lib/../lib]
+    arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
+    arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/4.9/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/4.9/../../..]
+    arg [CMakeFiles/cmTryCompileExec945737497.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [-lstdc++] ==> lib [stdc++]
+    arg [-lm] ==> lib [m]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lc] ==> lib [c]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [/usr/lib/gcc/x86_64-linux-gnu/4.9/crtend.o] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu/crtn.o] ==> ignore
+  remove lib [gcc_s]
+  remove lib [gcc]
+  remove lib [gcc_s]
+  remove lib [gcc]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/4.9] ==> [/usr/lib/gcc/x86_64-linux-gnu/4.9]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../x86_64-linux-gnu] ==> [/usr/lib/x86_64-linux-gnu]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/4.9/../../../../lib] ==> [/usr/lib]
+  collapse library dir [/lib/x86_64-linux-gnu] ==> [/lib/x86_64-linux-gnu]
+  collapse library dir [/lib/../lib] ==> [/lib]
+  collapse library dir [/usr/lib/x86_64-linux-gnu] ==> [/usr/lib/x86_64-linux-gnu]
+  collapse library dir [/usr/lib/../lib] ==> [/usr/lib]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/4.9/../../..] ==> [/usr/lib]
+  implicit libs: [stdc++;m;c]
+  implicit dirs: [/usr/lib/gcc/x86_64-linux-gnu/4.9;/usr/lib/x86_64-linux-gnu;/usr/lib;/lib/x86_64-linux-gnu;/lib]
+  implicit fwks: []
+
+
+Performing C SOURCE FILE Test SUPPORT_SSE_BUILD succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec765480005/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec765480005.dir/build.make CMakeFiles/cmTryCompileExec765480005.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec765480005.dir/src.c.o
+/usr/bin/cc   -DSUPPORT_SSE_BUILD -msse -msse2   -o CMakeFiles/cmTryCompileExec765480005.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec765480005
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec765480005.dir/link.txt --verbose=1
+/usr/bin/cc   -DSUPPORT_SSE_BUILD -msse -msse2    CMakeFiles/cmTryCompileExec765480005.dir/src.c.o  -o cmTryCompileExec765480005 -rdynamic 
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Return value: 1
+Source file was:
+
+			#include <xmmintrin.h>
+			int main(void) { __m128 v = _mm_setzero_ps(); return 0; }
+Performing C SOURCE FILE Test SUPPORT_SSE2_BUILD succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec4212142700/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec4212142700.dir/build.make CMakeFiles/cmTryCompileExec4212142700.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec4212142700.dir/src.c.o
+/usr/bin/cc   -DSUPPORT_SSE2_BUILD -msse -msse2   -o CMakeFiles/cmTryCompileExec4212142700.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec4212142700
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec4212142700.dir/link.txt --verbose=1
+/usr/bin/cc   -DSUPPORT_SSE2_BUILD -msse -msse2    CMakeFiles/cmTryCompileExec4212142700.dir/src.c.o  -o cmTryCompileExec4212142700 -rdynamic 
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Return value: 1
+Source file was:
+
+			#include <emmintrin.h>
+			int main(void) { __m128d v = _mm_setzero_pd(); return 0; }
+Determining if the include file memory exists passed with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2429094384/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2429094384.dir/build.make CMakeFiles/cmTryCompileExec2429094384.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2429094384.dir/CheckIncludeFile.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTryCompileExec2429094384.dir/CheckIncludeFile.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CheckIncludeFile.cxx
+Linking CXX executable cmTryCompileExec2429094384
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2429094384.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTryCompileExec2429094384.dir/CheckIncludeFile.cxx.o  -o cmTryCompileExec2429094384 -rdynamic 
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file tr1/memory exists passed with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1956029139/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1956029139.dir/build.make CMakeFiles/cmTryCompileExec1956029139.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1956029139.dir/CheckIncludeFile.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTryCompileExec1956029139.dir/CheckIncludeFile.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CheckIncludeFile.cxx
+Linking CXX executable cmTryCompileExec1956029139
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1956029139.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTryCompileExec1956029139.dir/CheckIncludeFile.cxx.o  -o cmTryCompileExec1956029139 -rdynamic 
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+
+Performing C++ SOURCE FILE Test HAVE_SHARED_PTR_IN_TR1_NAMESPACE_FROM_TR1_MEMORY_HEADER succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3151854945/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3151854945.dir/build.make CMakeFiles/cmTryCompileExec3151854945.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3151854945.dir/src.cxx.o
+/usr/bin/c++    -DHAVE_SHARED_PTR_IN_TR1_NAMESPACE_FROM_TR1_MEMORY_HEADER   -o CMakeFiles/cmTryCompileExec3151854945.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTryCompileExec3151854945
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3151854945.dir/link.txt --verbose=1
+/usr/bin/c++    -DHAVE_SHARED_PTR_IN_TR1_NAMESPACE_FROM_TR1_MEMORY_HEADER    CMakeFiles/cmTryCompileExec3151854945.dir/src.cxx.o  -o cmTryCompileExec3151854945 -rdynamic 
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+#include <tr1/memory>
+			                           int main() {
+			                           std::tr1::shared_ptr<int> int_ptr;
+			                           return 0;
+			                           }
+Determining if the include file tr1/unordered_map exists passed with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3184503210/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3184503210.dir/build.make CMakeFiles/cmTryCompileExec3184503210.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3184503210.dir/CheckIncludeFile.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTryCompileExec3184503210.dir/CheckIncludeFile.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CheckIncludeFile.cxx
+Linking CXX executable cmTryCompileExec3184503210
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3184503210.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTryCompileExec3184503210.dir/CheckIncludeFile.cxx.o  -o cmTryCompileExec3184503210 -rdynamic 
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+
+Determining if the function XOpenDisplay exists in the /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so passed with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1714329146/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1714329146.dir/build.make CMakeFiles/cmTryCompileExec1714329146.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1714329146.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=XOpenDisplay   -o CMakeFiles/cmTryCompileExec1714329146.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec1714329146
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1714329146.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=XOpenDisplay    CMakeFiles/cmTryCompileExec1714329146.dir/CheckFunctionExists.c.o  -o cmTryCompileExec1714329146 -rdynamic -lX11 -lXext 
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+
+Determining if the function gethostbyname exists passed with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2983515214/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2983515214.dir/build.make CMakeFiles/cmTryCompileExec2983515214.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2983515214.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=gethostbyname   -o CMakeFiles/cmTryCompileExec2983515214.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec2983515214
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2983515214.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=gethostbyname    CMakeFiles/cmTryCompileExec2983515214.dir/CheckFunctionExists.c.o  -o cmTryCompileExec2983515214 -rdynamic 
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+
+Determining if the function connect exists passed with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2388128105/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2388128105.dir/build.make CMakeFiles/cmTryCompileExec2388128105.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2388128105.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=connect   -o CMakeFiles/cmTryCompileExec2388128105.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec2388128105
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2388128105.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=connect    CMakeFiles/cmTryCompileExec2388128105.dir/CheckFunctionExists.c.o  -o cmTryCompileExec2388128105 -rdynamic 
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+
+Determining if the function remove exists passed with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec86158352/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec86158352.dir/build.make CMakeFiles/cmTryCompileExec86158352.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec86158352.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=remove   -o CMakeFiles/cmTryCompileExec86158352.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec86158352
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec86158352.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=remove    CMakeFiles/cmTryCompileExec86158352.dir/CheckFunctionExists.c.o  -o cmTryCompileExec86158352 -rdynamic 
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+
+Determining if the function shmat exists passed with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3128842426/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3128842426.dir/build.make CMakeFiles/cmTryCompileExec3128842426.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3128842426.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=shmat   -o CMakeFiles/cmTryCompileExec3128842426.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec3128842426
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3128842426.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=shmat    CMakeFiles/cmTryCompileExec3128842426.dir/CheckFunctionExists.c.o  -o cmTryCompileExec3128842426 -rdynamic 
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+
+Determining if the function IceConnectionNumber exists in the ICE passed with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3769585620/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3769585620.dir/build.make CMakeFiles/cmTryCompileExec3769585620.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3769585620.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=IceConnectionNumber   -o CMakeFiles/cmTryCompileExec3769585620.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec3769585620
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3769585620.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=IceConnectionNumber    CMakeFiles/cmTryCompileExec3769585620.dir/CheckFunctionExists.c.o  -o cmTryCompileExec3769585620 -rdynamic -lICE 
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+
+Determining if files pthread.h exist passed with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2918674197/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2918674197.dir/build.make CMakeFiles/cmTryCompileExec2918674197.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2918674197.dir/CheckIncludeFiles.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec2918674197.dir/CheckIncludeFiles.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+Linking C executable cmTryCompileExec2918674197
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2918674197.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTryCompileExec2918674197.dir/CheckIncludeFiles.c.o  -o cmTryCompileExec2918674197 -rdynamic 
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+
+Determining if the function pthread_create exists in the pthread passed with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3436220915/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3436220915.dir/build.make CMakeFiles/cmTryCompileExec3436220915.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3436220915.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTryCompileExec3436220915.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec3436220915
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3436220915.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTryCompileExec3436220915.dir/CheckFunctionExists.c.o  -o cmTryCompileExec3436220915 -rdynamic -lpthread 
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1675258946/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1675258946.dir/build.make CMakeFiles/cmTryCompileExec1675258946.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1675258946.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fuse-ld=gold    -o CMakeFiles/cmTryCompileExec1675258946.dir/CheckIncludeFile.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec1675258946
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1675258946.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold     CMakeFiles/cmTryCompileExec1675258946.dir/CheckIncludeFile.c.o  -o cmTryCompileExec1675258946 -rdynamic 
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2431806893/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2431806893.dir/build.make CMakeFiles/cmTryCompileExec2431806893.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2431806893.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fuse-ld=gold    -o CMakeFiles/cmTryCompileExec2431806893.dir/CheckIncludeFile.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec2431806893
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2431806893.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold     CMakeFiles/cmTryCompileExec2431806893.dir/CheckIncludeFile.c.o  -o cmTryCompileExec2431806893 -rdynamic 
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3964089682/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3964089682.dir/build.make CMakeFiles/cmTryCompileExec3964089682.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3964089682.dir/CheckIncludeFile.c.o
+/usr/bin/cc   -fuse-ld=gold    -o CMakeFiles/cmTryCompileExec3964089682.dir/CheckIncludeFile.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTryCompileExec3964089682
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3964089682.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold     CMakeFiles/cmTryCompileExec3964089682.dir/CheckIncludeFile.c.o  -o cmTryCompileExec3964089682 -rdynamic 
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+
+Determining size of unsigned short passed with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3168775308/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3168775308.dir/build.make CMakeFiles/cmTryCompileExec3168775308.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3168775308.dir/CMAKE_SIZEOF_UNSIGNED_SHORT.c.o
+/usr/bin/cc   -fuse-ld=gold    -o CMakeFiles/cmTryCompileExec3168775308.dir/CMAKE_SIZEOF_UNSIGNED_SHORT.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CheckTypeSize/CMAKE_SIZEOF_UNSIGNED_SHORT.c
+Linking C executable cmTryCompileExec3168775308
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3168775308.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold     CMakeFiles/cmTryCompileExec3168775308.dir/CMAKE_SIZEOF_UNSIGNED_SHORT.c.o  -o cmTryCompileExec3168775308 -rdynamic 
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+
+Performing C SOURCE FILE Test OpenMP_FLAG_DETECTED succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2469990763/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2469990763.dir/build.make CMakeFiles/cmTryCompileExec2469990763.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2469990763.dir/src.c.o
+/usr/bin/cc   -fuse-ld=gold -DOpenMP_FLAG_DETECTED -fopenmp   -o CMakeFiles/cmTryCompileExec2469990763.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec2469990763
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2469990763.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold -DOpenMP_FLAG_DETECTED -fopenmp    CMakeFiles/cmTryCompileExec2469990763.dir/src.c.o  -o cmTryCompileExec2469990763 -rdynamic 
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+
+#include <omp.h>
+int main() {
+#ifdef _OPENMP
+  return 0;
+#else
+  breaks_on_purpose
+#endif
+}
+
+Performing C++ SOURCE FILE Test OpenMP_FLAG_DETECTED succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1780866401/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1780866401.dir/build.make CMakeFiles/cmTryCompileExec1780866401.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1780866401.dir/src.cxx.o
+/usr/bin/c++    -fuse-ld=gold -DOpenMP_FLAG_DETECTED -fopenmp   -o CMakeFiles/cmTryCompileExec1780866401.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTryCompileExec1780866401
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1780866401.dir/link.txt --verbose=1
+/usr/bin/c++    -fuse-ld=gold -DOpenMP_FLAG_DETECTED -fopenmp    CMakeFiles/cmTryCompileExec1780866401.dir/src.cxx.o  -o cmTryCompileExec1780866401 -rdynamic 
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+
+#include <omp.h>
+int main() {
+#ifdef _OPENMP
+  return 0;
+#else
+  breaks_on_purpose
+#endif
+}
+
+Performing C SOURCE FILE Test C_WARN_ALL succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1214330538/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1214330538.dir/build.make CMakeFiles/cmTryCompileExec1214330538.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1214330538.dir/src.c.o
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_ALL   -Wall -o CMakeFiles/cmTryCompileExec1214330538.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec1214330538
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1214330538.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_ALL    CMakeFiles/cmTryCompileExec1214330538.dir/src.c.o  -o cmTryCompileExec1214330538 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_WARN_CAST_ALIGN succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3739771092/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3739771092.dir/build.make CMakeFiles/cmTryCompileExec3739771092.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3739771092.dir/src.c.o
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_CAST_ALIGN   -Wcast-align -o CMakeFiles/cmTryCompileExec3739771092.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec3739771092
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3739771092.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_CAST_ALIGN    CMakeFiles/cmTryCompileExec3739771092.dir/src.c.o  -o cmTryCompileExec3739771092 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_WARN_ERROR_IMPLICIT_FUNCTION_DECLARATION succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec573757613/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec573757613.dir/build.make CMakeFiles/cmTryCompileExec573757613.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec573757613.dir/src.c.o
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_ERROR_IMPLICIT_FUNCTION_DECLARATION   -Werror=implicit-function-declaration -o CMakeFiles/cmTryCompileExec573757613.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec573757613
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec573757613.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_ERROR_IMPLICIT_FUNCTION_DECLARATION    CMakeFiles/cmTryCompileExec573757613.dir/src.c.o  -o cmTryCompileExec573757613 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_WARN_ERROR_RETURN_TYPE succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2508063303/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2508063303.dir/build.make CMakeFiles/cmTryCompileExec2508063303.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2508063303.dir/src.c.o
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_ERROR_RETURN_TYPE   -Werror=return-type -o CMakeFiles/cmTryCompileExec2508063303.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec2508063303
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2508063303.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_ERROR_RETURN_TYPE    CMakeFiles/cmTryCompileExec2508063303.dir/src.c.o  -o cmTryCompileExec2508063303 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_WARN_ERROR_VLA succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec95968038/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec95968038.dir/build.make CMakeFiles/cmTryCompileExec95968038.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec95968038.dir/src.c.o
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_ERROR_VLA   -Werror=vla -o CMakeFiles/cmTryCompileExec95968038.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec95968038
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec95968038.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_ERROR_VLA    CMakeFiles/cmTryCompileExec95968038.dir/src.c.o  -o cmTryCompileExec95968038 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_WARN_STRICT_PROTOTYPES succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3128397840/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3128397840.dir/build.make CMakeFiles/cmTryCompileExec3128397840.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3128397840.dir/src.c.o
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_STRICT_PROTOTYPES   -Wstrict-prototypes -o CMakeFiles/cmTryCompileExec3128397840.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec3128397840
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3128397840.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_STRICT_PROTOTYPES    CMakeFiles/cmTryCompileExec3128397840.dir/src.c.o  -o cmTryCompileExec3128397840 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_WARN_MISSING_PROTOTYPES succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2234110309/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2234110309.dir/build.make CMakeFiles/cmTryCompileExec2234110309.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2234110309.dir/src.c.o
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_MISSING_PROTOTYPES   -Wmissing-prototypes -o CMakeFiles/cmTryCompileExec2234110309.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec2234110309
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2234110309.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_MISSING_PROTOTYPES    CMakeFiles/cmTryCompileExec2234110309.dir/src.c.o  -o cmTryCompileExec2234110309 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_WARN_NO_CHAR_SUBSCRIPTS succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec943373049/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec943373049.dir/build.make CMakeFiles/cmTryCompileExec943373049.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec943373049.dir/src.c.o
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_NO_CHAR_SUBSCRIPTS   -Wno-char-subscripts -o CMakeFiles/cmTryCompileExec943373049.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec943373049
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec943373049.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_NO_CHAR_SUBSCRIPTS    CMakeFiles/cmTryCompileExec943373049.dir/src.c.o  -o cmTryCompileExec943373049 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_WARN_NO_UNKNOWN_PRAGMAS succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec71714500/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec71714500.dir/build.make CMakeFiles/cmTryCompileExec71714500.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec71714500.dir/src.c.o
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_NO_UNKNOWN_PRAGMAS   -Wno-unknown-pragmas -o CMakeFiles/cmTryCompileExec71714500.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec71714500
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec71714500.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_NO_UNKNOWN_PRAGMAS    CMakeFiles/cmTryCompileExec71714500.dir/src.c.o  -o cmTryCompileExec71714500 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_WARN_POINTER_ARITH succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3189960589/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3189960589.dir/build.make CMakeFiles/cmTryCompileExec3189960589.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3189960589.dir/src.c.o
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_POINTER_ARITH   -Wpointer-arith -o CMakeFiles/cmTryCompileExec3189960589.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec3189960589
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3189960589.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_POINTER_ARITH    CMakeFiles/cmTryCompileExec3189960589.dir/src.c.o  -o cmTryCompileExec3189960589 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_WARN_UNUSED_PARAMETER succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec755549323/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec755549323.dir/build.make CMakeFiles/cmTryCompileExec755549323.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec755549323.dir/src.c.o
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_UNUSED_PARAMETER   -Wunused-parameter -o CMakeFiles/cmTryCompileExec755549323.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec755549323
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec755549323.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_UNUSED_PARAMETER    CMakeFiles/cmTryCompileExec755549323.dir/src.c.o  -o cmTryCompileExec755549323 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_WARN_WRITE_STRINGS succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1521527090/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1521527090.dir/build.make CMakeFiles/cmTryCompileExec1521527090.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1521527090.dir/src.c.o
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_WRITE_STRINGS   -Wwrite-strings -o CMakeFiles/cmTryCompileExec1521527090.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec1521527090
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1521527090.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_WRITE_STRINGS    CMakeFiles/cmTryCompileExec1521527090.dir/src.c.o  -o cmTryCompileExec1521527090 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_WARN_LOGICAL_OP succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec551326188/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec551326188.dir/build.make CMakeFiles/cmTryCompileExec551326188.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec551326188.dir/src.c.o
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_LOGICAL_OP   -Wlogical-op -o CMakeFiles/cmTryCompileExec551326188.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec551326188
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec551326188.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_LOGICAL_OP    CMakeFiles/cmTryCompileExec551326188.dir/src.c.o  -o cmTryCompileExec551326188 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_WARN_UNDEF succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec177536125/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec177536125.dir/build.make CMakeFiles/cmTryCompileExec177536125.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec177536125.dir/src.c.o
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_UNDEF   -Wundef -o CMakeFiles/cmTryCompileExec177536125.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec177536125
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec177536125.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_UNDEF    CMakeFiles/cmTryCompileExec177536125.dir/src.c.o  -o cmTryCompileExec177536125 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_WARN_INIT_SELF succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2087069997/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2087069997.dir/build.make CMakeFiles/cmTryCompileExec2087069997.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2087069997.dir/src.c.o
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_INIT_SELF   -Winit-self -o CMakeFiles/cmTryCompileExec2087069997.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec2087069997
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2087069997.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_INIT_SELF    CMakeFiles/cmTryCompileExec2087069997.dir/src.c.o  -o cmTryCompileExec2087069997 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_WARN_NO_NULL succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2022765963/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2022765963.dir/build.make CMakeFiles/cmTryCompileExec2022765963.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2022765963.dir/src.c.o
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_NO_NULL   -Wnonnull -o CMakeFiles/cmTryCompileExec2022765963.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec2022765963
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2022765963.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_NO_NULL    CMakeFiles/cmTryCompileExec2022765963.dir/src.c.o  -o cmTryCompileExec2022765963 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_WARN_MISSING_INCLUDE_DIRS succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec286645400/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec286645400.dir/build.make CMakeFiles/cmTryCompileExec286645400.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec286645400.dir/src.c.o
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_MISSING_INCLUDE_DIRS   -Wmissing-include-dirs -o CMakeFiles/cmTryCompileExec286645400.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec286645400
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec286645400.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_MISSING_INCLUDE_DIRS    CMakeFiles/cmTryCompileExec286645400.dir/src.c.o  -o cmTryCompileExec286645400 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_WARN_NO_DIV_BY_ZERO succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec652844591/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec652844591.dir/build.make CMakeFiles/cmTryCompileExec652844591.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec652844591.dir/src.c.o
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_NO_DIV_BY_ZERO   -Wno-div-by-zero -o CMakeFiles/cmTryCompileExec652844591.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec652844591
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec652844591.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_NO_DIV_BY_ZERO    CMakeFiles/cmTryCompileExec652844591.dir/src.c.o  -o cmTryCompileExec652844591 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_WARN_TYPE_LIMITS succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1523914282/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1523914282.dir/build.make CMakeFiles/cmTryCompileExec1523914282.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1523914282.dir/src.c.o
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_TYPE_LIMITS   -Wtype-limits -o CMakeFiles/cmTryCompileExec1523914282.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec1523914282
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1523914282.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_TYPE_LIMITS    CMakeFiles/cmTryCompileExec1523914282.dir/src.c.o  -o cmTryCompileExec1523914282 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_WARN_UNINITIALIZED succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3901766873/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3901766873.dir/build.make CMakeFiles/cmTryCompileExec3901766873.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3901766873.dir/src.c.o
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_UNINITIALIZED   -Wuninitialized -o CMakeFiles/cmTryCompileExec3901766873.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec3901766873
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3901766873.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_UNINITIALIZED    CMakeFiles/cmTryCompileExec3901766873.dir/src.c.o  -o cmTryCompileExec3901766873 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_WARN_REDUNDANT_DECLS succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec934250286/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec934250286.dir/build.make CMakeFiles/cmTryCompileExec934250286.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec934250286.dir/src.c.o
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_REDUNDANT_DECLS   -Wredundant-decls -o CMakeFiles/cmTryCompileExec934250286.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec934250286
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec934250286.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_REDUNDANT_DECLS    CMakeFiles/cmTryCompileExec934250286.dir/src.c.o  -o cmTryCompileExec934250286 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test CXX_WARN_REDUNDANT_DECLS succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec483823931/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec483823931.dir/build.make CMakeFiles/cmTryCompileExec483823931.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec483823931.dir/src.cxx.o
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_REDUNDANT_DECLS   -Wredundant-decls -o CMakeFiles/cmTryCompileExec483823931.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTryCompileExec483823931
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec483823931.dir/link.txt --verbose=1
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_REDUNDANT_DECLS    CMakeFiles/cmTryCompileExec483823931.dir/src.cxx.o  -o cmTryCompileExec483823931 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C SOURCE FILE Test C_WARN_SHADOW succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec218319531/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec218319531.dir/build.make CMakeFiles/cmTryCompileExec218319531.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec218319531.dir/src.c.o
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_SHADOW   -Wshadow -o CMakeFiles/cmTryCompileExec218319531.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec218319531
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec218319531.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_SHADOW    CMakeFiles/cmTryCompileExec218319531.dir/src.c.o  -o cmTryCompileExec218319531 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_WARN_NO_ERROR_UNUSED_BUT_SET_VARIABLE succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec4017114468/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec4017114468.dir/build.make CMakeFiles/cmTryCompileExec4017114468.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec4017114468.dir/src.c.o
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_NO_ERROR_UNUSED_BUT_SET_VARIABLE   -Wno-error=unused-but-set-variable -o CMakeFiles/cmTryCompileExec4017114468.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec4017114468
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec4017114468.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_NO_ERROR_UNUSED_BUT_SET_VARIABLE    CMakeFiles/cmTryCompileExec4017114468.dir/src.c.o  -o cmTryCompileExec4017114468 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test CXX_WARN_ALL succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec329737746/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec329737746.dir/build.make CMakeFiles/cmTryCompileExec329737746.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec329737746.dir/src.cxx.o
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_ALL   -Wall -o CMakeFiles/cmTryCompileExec329737746.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTryCompileExec329737746
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec329737746.dir/link.txt --verbose=1
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_ALL    CMakeFiles/cmTryCompileExec329737746.dir/src.cxx.o  -o cmTryCompileExec329737746 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_WARN_NO_INVALID_OFFSETOF succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1561101508/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1561101508.dir/build.make CMakeFiles/cmTryCompileExec1561101508.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1561101508.dir/src.cxx.o
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_NO_INVALID_OFFSETOF   -Wno-invalid-offsetof -o CMakeFiles/cmTryCompileExec1561101508.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTryCompileExec1561101508
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1561101508.dir/link.txt --verbose=1
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_NO_INVALID_OFFSETOF    CMakeFiles/cmTryCompileExec1561101508.dir/src.cxx.o  -o cmTryCompileExec1561101508 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_WARN_NO_SIGN_COMPARE succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2649047107/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2649047107.dir/build.make CMakeFiles/cmTryCompileExec2649047107.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2649047107.dir/src.cxx.o
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_NO_SIGN_COMPARE   -Wno-sign-compare -o CMakeFiles/cmTryCompileExec2649047107.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTryCompileExec2649047107
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2649047107.dir/link.txt --verbose=1
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_NO_SIGN_COMPARE    CMakeFiles/cmTryCompileExec2649047107.dir/src.cxx.o  -o cmTryCompileExec2649047107 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_WARN_LOGICAL_OP succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec898554012/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec898554012.dir/build.make CMakeFiles/cmTryCompileExec898554012.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec898554012.dir/src.cxx.o
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_LOGICAL_OP   -Wlogical-op -o CMakeFiles/cmTryCompileExec898554012.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTryCompileExec898554012
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec898554012.dir/link.txt --verbose=1
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_LOGICAL_OP    CMakeFiles/cmTryCompileExec898554012.dir/src.cxx.o  -o cmTryCompileExec898554012 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_WARN_INIT_SELF succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3901195052/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3901195052.dir/build.make CMakeFiles/cmTryCompileExec3901195052.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3901195052.dir/src.cxx.o
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_INIT_SELF   -Winit-self -o CMakeFiles/cmTryCompileExec3901195052.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTryCompileExec3901195052
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3901195052.dir/link.txt --verbose=1
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_INIT_SELF    CMakeFiles/cmTryCompileExec3901195052.dir/src.cxx.o  -o cmTryCompileExec3901195052 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_WARN_MISSING_INCLUDE_DIRS succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec740791786/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec740791786.dir/build.make CMakeFiles/cmTryCompileExec740791786.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec740791786.dir/src.cxx.o
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_MISSING_INCLUDE_DIRS   -Wmissing-include-dirs -o CMakeFiles/cmTryCompileExec740791786.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTryCompileExec740791786
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec740791786.dir/link.txt --verbose=1
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_MISSING_INCLUDE_DIRS    CMakeFiles/cmTryCompileExec740791786.dir/src.cxx.o  -o cmTryCompileExec740791786 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_WARN_NO_DIV_BY_ZERO succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec4216148220/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec4216148220.dir/build.make CMakeFiles/cmTryCompileExec4216148220.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec4216148220.dir/src.cxx.o
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_NO_DIV_BY_ZERO   -Wno-div-by-zero -o CMakeFiles/cmTryCompileExec4216148220.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTryCompileExec4216148220
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec4216148220.dir/link.txt --verbose=1
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_NO_DIV_BY_ZERO    CMakeFiles/cmTryCompileExec4216148220.dir/src.cxx.o  -o cmTryCompileExec4216148220 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_WARN_TYPE_LIMITS succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3067191221/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3067191221.dir/build.make CMakeFiles/cmTryCompileExec3067191221.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3067191221.dir/src.cxx.o
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_TYPE_LIMITS   -Wtype-limits -o CMakeFiles/cmTryCompileExec3067191221.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTryCompileExec3067191221
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3067191221.dir/link.txt --verbose=1
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_TYPE_LIMITS    CMakeFiles/cmTryCompileExec3067191221.dir/src.cxx.o  -o cmTryCompileExec3067191221 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_WARN_ERROR_RETURN_TYPE succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec995615810/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec995615810.dir/build.make CMakeFiles/cmTryCompileExec995615810.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec995615810.dir/src.cxx.o
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_ERROR_RETURN_TYPE   -Werror=return-type -o CMakeFiles/cmTryCompileExec995615810.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTryCompileExec995615810
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec995615810.dir/link.txt --verbose=1
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_ERROR_RETURN_TYPE    CMakeFiles/cmTryCompileExec995615810.dir/src.cxx.o  -o cmTryCompileExec995615810 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_WARN_ERROR_IMPLICIT_FUNCTION_DECLARATION succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2313142920/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2313142920.dir/build.make CMakeFiles/cmTryCompileExec2313142920.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2313142920.dir/src.cxx.o
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_ERROR_IMPLICIT_FUNCTION_DECLARATION   -Werror=implicit-function-declaration -o CMakeFiles/cmTryCompileExec2313142920.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTryCompileExec2313142920
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2313142920.dir/link.txt --verbose=1
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_ERROR_IMPLICIT_FUNCTION_DECLARATION    CMakeFiles/cmTryCompileExec2313142920.dir/src.cxx.o  -o cmTryCompileExec2313142920 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_WARN_NO_CHAR_SUBSCRIPTS succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2166125849/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2166125849.dir/build.make CMakeFiles/cmTryCompileExec2166125849.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2166125849.dir/src.cxx.o
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_NO_CHAR_SUBSCRIPTS   -Wno-char-subscripts -o CMakeFiles/cmTryCompileExec2166125849.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTryCompileExec2166125849
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2166125849.dir/link.txt --verbose=1
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_NO_CHAR_SUBSCRIPTS    CMakeFiles/cmTryCompileExec2166125849.dir/src.cxx.o  -o cmTryCompileExec2166125849 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_WARN_NO_UNKNOWN_PRAGMAS succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2376180283/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2376180283.dir/build.make CMakeFiles/cmTryCompileExec2376180283.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2376180283.dir/src.cxx.o
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_NO_UNKNOWN_PRAGMAS   -Wno-unknown-pragmas -o CMakeFiles/cmTryCompileExec2376180283.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTryCompileExec2376180283
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2376180283.dir/link.txt --verbose=1
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_NO_UNKNOWN_PRAGMAS    CMakeFiles/cmTryCompileExec2376180283.dir/src.cxx.o  -o cmTryCompileExec2376180283 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_WARN_POINTER_ARITH succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1357472368/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1357472368.dir/build.make CMakeFiles/cmTryCompileExec1357472368.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1357472368.dir/src.cxx.o
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_POINTER_ARITH   -Wpointer-arith -o CMakeFiles/cmTryCompileExec1357472368.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTryCompileExec1357472368
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1357472368.dir/link.txt --verbose=1
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_POINTER_ARITH    CMakeFiles/cmTryCompileExec1357472368.dir/src.cxx.o  -o cmTryCompileExec1357472368 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_WARN_UNUSED_PARAMETER succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec990715486/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec990715486.dir/build.make CMakeFiles/cmTryCompileExec990715486.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec990715486.dir/src.cxx.o
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_UNUSED_PARAMETER   -Wunused-parameter -o CMakeFiles/cmTryCompileExec990715486.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTryCompileExec990715486
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec990715486.dir/link.txt --verbose=1
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_UNUSED_PARAMETER    CMakeFiles/cmTryCompileExec990715486.dir/src.cxx.o  -o cmTryCompileExec990715486 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_WARN_WRITE_STRINGS succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2197850451/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2197850451.dir/build.make CMakeFiles/cmTryCompileExec2197850451.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2197850451.dir/src.cxx.o
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_WRITE_STRINGS   -Wwrite-strings -o CMakeFiles/cmTryCompileExec2197850451.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTryCompileExec2197850451
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2197850451.dir/link.txt --verbose=1
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_WRITE_STRINGS    CMakeFiles/cmTryCompileExec2197850451.dir/src.cxx.o  -o cmTryCompileExec2197850451 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_WARN_UNDEF succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec233604310/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec233604310.dir/build.make CMakeFiles/cmTryCompileExec233604310.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec233604310.dir/src.cxx.o
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_UNDEF   -Wundef -o CMakeFiles/cmTryCompileExec233604310.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTryCompileExec233604310
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec233604310.dir/link.txt --verbose=1
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_UNDEF    CMakeFiles/cmTryCompileExec233604310.dir/src.cxx.o  -o cmTryCompileExec233604310 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_WARN_UNINITIALIZED succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3397834233/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3397834233.dir/build.make CMakeFiles/cmTryCompileExec3397834233.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3397834233.dir/src.cxx.o
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_UNINITIALIZED   -Wuninitialized -o CMakeFiles/cmTryCompileExec3397834233.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTryCompileExec3397834233
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3397834233.dir/link.txt --verbose=1
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_UNINITIALIZED    CMakeFiles/cmTryCompileExec3397834233.dir/src.cxx.o  -o cmTryCompileExec3397834233 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_WARN_MISSING_DECLARATIONS succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3328746701/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3328746701.dir/build.make CMakeFiles/cmTryCompileExec3328746701.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3328746701.dir/src.cxx.o
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_MISSING_DECLARATIONS   -Wmissing-declarations -o CMakeFiles/cmTryCompileExec3328746701.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTryCompileExec3328746701
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3328746701.dir/link.txt --verbose=1
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_MISSING_DECLARATIONS    CMakeFiles/cmTryCompileExec3328746701.dir/src.cxx.o  -o cmTryCompileExec3328746701 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C SOURCE FILE Test C_WARN_NO_DEPRECATED_DECLARATIONS succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1282625045/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1282625045.dir/build.make CMakeFiles/cmTryCompileExec1282625045.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1282625045.dir/src.c.o
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_NO_DEPRECATED_DECLARATIONS   -Wno-deprecated-declarations -o CMakeFiles/cmTryCompileExec1282625045.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec1282625045
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1282625045.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_NO_DEPRECATED_DECLARATIONS    CMakeFiles/cmTryCompileExec1282625045.dir/src.c.o  -o cmTryCompileExec1282625045 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_WARN_NO_UNUSED_PARAMETER succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2204863838/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2204863838.dir/build.make CMakeFiles/cmTryCompileExec2204863838.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2204863838.dir/src.c.o
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_NO_UNUSED_PARAMETER   -Wno-unused-parameter -o CMakeFiles/cmTryCompileExec2204863838.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTryCompileExec2204863838
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2204863838.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_NO_UNUSED_PARAMETER    CMakeFiles/cmTryCompileExec2204863838.dir/src.c.o  -o cmTryCompileExec2204863838 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test CXX_HAS_SSE succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec488119313/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec488119313.dir/build.make CMakeFiles/cmTryCompileExec488119313.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec488119313.dir/src.cxx.o
+/usr/bin/c++    -Wredundant-decls -Wall -Wno-invalid-offsetof -Wno-sign-compare -Wlogical-op -Winit-self -Wmissing-include-dirs -Wno-div-by-zero -Wtype-limits -Werror=return-type -Werror=implicit-function-declaration -Wno-char-subscripts -Wno-unknown-pragmas -Wpointer-arith -Wunused-parameter -Wwrite-strings -Wundef -Wuninitialized -Wundef -Wmissing-declarations  -fuse-ld=gold -fopenmp  -msse2  -msse -pipe -fPIC -funsigned-char -fno-strict-aliasing -DCXX_HAS_SSE   -msse -o CMakeFiles/cmTryCompileExec488119313.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTryCompileExec488119313
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec488119313.dir/link.txt --verbose=1
+/usr/bin/c++    -Wredundant-decls -Wall -Wno-invalid-offsetof -Wno-sign-compare -Wlogical-op -Winit-self -Wmissing-include-dirs -Wno-div-by-zero -Wtype-limits -Werror=return-type -Werror=implicit-function-declaration -Wno-char-subscripts -Wno-unknown-pragmas -Wpointer-arith -Wunused-parameter -Wwrite-strings -Wundef -Wuninitialized -Wundef -Wmissing-declarations  -fuse-ld=gold -fopenmp  -msse2  -msse -pipe -fPIC -funsigned-char -fno-strict-aliasing -DCXX_HAS_SSE    CMakeFiles/cmTryCompileExec488119313.dir/src.cxx.o  -o cmTryCompileExec488119313 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_HAS_AVX succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2674289915/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2674289915.dir/build.make CMakeFiles/cmTryCompileExec2674289915.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2674289915.dir/src.cxx.o
+/usr/bin/c++    -Wredundant-decls -Wall -Wno-invalid-offsetof -Wno-sign-compare -Wlogical-op -Winit-self -Wmissing-include-dirs -Wno-div-by-zero -Wtype-limits -Werror=return-type -Werror=implicit-function-declaration -Wno-char-subscripts -Wno-unknown-pragmas -Wpointer-arith -Wunused-parameter -Wwrite-strings -Wundef -Wuninitialized -Wundef -Wmissing-declarations  -fuse-ld=gold -fopenmp  -msse2  -msse -pipe -fPIC -funsigned-char -fno-strict-aliasing -DCXX_HAS_AVX   -mavx -o CMakeFiles/cmTryCompileExec2674289915.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTryCompileExec2674289915
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2674289915.dir/link.txt --verbose=1
+/usr/bin/c++    -Wredundant-decls -Wall -Wno-invalid-offsetof -Wno-sign-compare -Wlogical-op -Winit-self -Wmissing-include-dirs -Wno-div-by-zero -Wtype-limits -Werror=return-type -Werror=implicit-function-declaration -Wno-char-subscripts -Wno-unknown-pragmas -Wpointer-arith -Wunused-parameter -Wwrite-strings -Wundef -Wuninitialized -Wundef -Wmissing-declarations  -fuse-ld=gold -fopenmp  -msse2  -msse -pipe -fPIC -funsigned-char -fno-strict-aliasing -DCXX_HAS_AVX    CMakeFiles/cmTryCompileExec2674289915.dir/src.cxx.o  -o cmTryCompileExec2674289915 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test CXX_HAS_AVX2 succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec627969846/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec627969846.dir/build.make CMakeFiles/cmTryCompileExec627969846.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec627969846.dir/src.cxx.o
+/usr/bin/c++    -Wredundant-decls -Wall -Wno-invalid-offsetof -Wno-sign-compare -Wlogical-op -Winit-self -Wmissing-include-dirs -Wno-div-by-zero -Wtype-limits -Werror=return-type -Werror=implicit-function-declaration -Wno-char-subscripts -Wno-unknown-pragmas -Wpointer-arith -Wunused-parameter -Wwrite-strings -Wundef -Wuninitialized -Wundef -Wmissing-declarations  -fuse-ld=gold -fopenmp  -msse2  -msse -pipe -fPIC -funsigned-char -fno-strict-aliasing -DCXX_HAS_AVX2   -mavx2 -o CMakeFiles/cmTryCompileExec627969846.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTryCompileExec627969846
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec627969846.dir/link.txt --verbose=1
+/usr/bin/c++    -Wredundant-decls -Wall -Wno-invalid-offsetof -Wno-sign-compare -Wlogical-op -Winit-self -Wmissing-include-dirs -Wno-div-by-zero -Wtype-limits -Werror=return-type -Werror=implicit-function-declaration -Wno-char-subscripts -Wno-unknown-pragmas -Wpointer-arith -Wunused-parameter -Wwrite-strings -Wundef -Wuninitialized -Wundef -Wmissing-declarations  -fuse-ld=gold -fopenmp  -msse2  -msse -pipe -fPIC -funsigned-char -fno-strict-aliasing -DCXX_HAS_AVX2    CMakeFiles/cmTryCompileExec627969846.dir/src.cxx.o  -o cmTryCompileExec627969846 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test _has_cxxflag_float_conversion succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec777281423/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec777281423.dir/build.make CMakeFiles/cmTryCompileExec777281423.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec777281423.dir/src.cxx.o
+/usr/bin/c++    -Wredundant-decls -Wall -Wno-invalid-offsetof -Wno-sign-compare -Wlogical-op -Winit-self -Wmissing-include-dirs -Wno-div-by-zero -Wtype-limits -Werror=return-type -Werror=implicit-function-declaration -Wno-char-subscripts -Wno-unknown-pragmas -Wpointer-arith -Wunused-parameter -Wwrite-strings -Wundef -Wuninitialized -Wundef -Wmissing-declarations  -fuse-ld=gold -fopenmp  -msse2  -msse -pipe -fPIC -funsigned-char -fno-strict-aliasing -ffast-math -D_has_cxxflag_float_conversion   -Werror=float-conversion -o CMakeFiles/cmTryCompileExec777281423.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTryCompileExec777281423
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec777281423.dir/link.txt --verbose=1
+/usr/bin/c++    -Wredundant-decls -Wall -Wno-invalid-offsetof -Wno-sign-compare -Wlogical-op -Winit-self -Wmissing-include-dirs -Wno-div-by-zero -Wtype-limits -Werror=return-type -Werror=implicit-function-declaration -Wno-char-subscripts -Wno-unknown-pragmas -Wpointer-arith -Wunused-parameter -Wwrite-strings -Wundef -Wuninitialized -Wundef -Wmissing-declarations  -fuse-ld=gold -fopenmp  -msse2  -msse -pipe -fPIC -funsigned-char -fno-strict-aliasing -ffast-math -D_has_cxxflag_float_conversion    CMakeFiles/cmTryCompileExec777281423.dir/src.cxx.o  -o cmTryCompileExec777281423 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test _has_cxxflag_double_promotion succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2964610025/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2964610025.dir/build.make CMakeFiles/cmTryCompileExec2964610025.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2964610025.dir/src.cxx.o
+/usr/bin/c++    -Wredundant-decls -Wall -Wno-invalid-offsetof -Wno-sign-compare -Wlogical-op -Winit-self -Wmissing-include-dirs -Wno-div-by-zero -Wtype-limits -Werror=return-type -Werror=implicit-function-declaration -Wno-char-subscripts -Wno-unknown-pragmas -Wpointer-arith -Wunused-parameter -Wwrite-strings -Wundef -Wuninitialized -Wundef -Wmissing-declarations  -fuse-ld=gold -fopenmp  -msse2  -msse -pipe -fPIC -funsigned-char -fno-strict-aliasing -ffast-math -Werror=float-conversion -D_has_cxxflag_double_promotion   -Werror=double-promotion -o CMakeFiles/cmTryCompileExec2964610025.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTryCompileExec2964610025
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2964610025.dir/link.txt --verbose=1
+/usr/bin/c++    -Wredundant-decls -Wall -Wno-invalid-offsetof -Wno-sign-compare -Wlogical-op -Winit-self -Wmissing-include-dirs -Wno-div-by-zero -Wtype-limits -Werror=return-type -Werror=implicit-function-declaration -Wno-char-subscripts -Wno-unknown-pragmas -Wpointer-arith -Wunused-parameter -Wwrite-strings -Wundef -Wuninitialized -Wundef -Wmissing-declarations  -fuse-ld=gold -fopenmp  -msse2  -msse -pipe -fPIC -funsigned-char -fno-strict-aliasing -ffast-math -Werror=float-conversion -D_has_cxxflag_double_promotion    CMakeFiles/cmTryCompileExec2964610025.dir/src.cxx.o  -o cmTryCompileExec2964610025 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}
+Performing C++ SOURCE FILE Test _has_no_error_unused_macros succeded with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec660855935/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec660855935.dir/build.make CMakeFiles/cmTryCompileExec660855935.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec660855935.dir/src.cxx.o
+/usr/bin/c++    -Wredundant-decls -Wall -Wno-invalid-offsetof -Wno-sign-compare -Wlogical-op -Winit-self -Wmissing-include-dirs -Wno-div-by-zero -Wtype-limits -Werror=return-type -Werror=implicit-function-declaration -Wno-char-subscripts -Wno-unknown-pragmas -Wpointer-arith -Wunused-parameter -Wwrite-strings -Wundef -Wuninitialized -Wundef -Wmissing-declarations  -fuse-ld=gold -fopenmp  -msse2  -msse -pipe -fPIC -funsigned-char -fno-strict-aliasing -ffast-math -Werror=float-conversion -Werror=double-promotion -D_has_no_error_unused_macros   -Wno-error=unused-macros -o CMakeFiles/cmTryCompileExec660855935.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+Linking CXX executable cmTryCompileExec660855935
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec660855935.dir/link.txt --verbose=1
+/usr/bin/c++    -Wredundant-decls -Wall -Wno-invalid-offsetof -Wno-sign-compare -Wlogical-op -Winit-self -Wmissing-include-dirs -Wno-div-by-zero -Wtype-limits -Werror=return-type -Werror=implicit-function-declaration -Wno-char-subscripts -Wno-unknown-pragmas -Wpointer-arith -Wunused-parameter -Wwrite-strings -Wundef -Wuninitialized -Wundef -Wmissing-declarations  -fuse-ld=gold -fopenmp  -msse2  -msse -pipe -fPIC -funsigned-char -fno-strict-aliasing -ffast-math -Werror=float-conversion -Werror=double-promotion -D_has_no_error_unused_macros    CMakeFiles/cmTryCompileExec660855935.dir/src.cxx.o  -o cmTryCompileExec660855935 -rdynamic 
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0;}

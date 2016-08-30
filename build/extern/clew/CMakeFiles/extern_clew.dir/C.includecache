@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../extern/clew/include/clew.h
+AvailabilityMacros.h
+-
+stdint.h
+-
+stddef.h
+-
+altivec.h
+-
+intrin.h
+-
+xmmintrin.h
+-
+intrin.h
+-
+emmintrin.h
+-
+mmintrin.h
+-
+intrin.h
+-
+immintrin.h
+-
+
+/home/sway/MaiQi.COM/blender-2.77a/extern/clew/src/clew.c
+clew.h
+/home/sway/MaiQi.COM/blender-2.77a/extern/clew/src/clew.h
+windows.h
+-
+dlfcn.h
+-
+stdlib.h
+-
+

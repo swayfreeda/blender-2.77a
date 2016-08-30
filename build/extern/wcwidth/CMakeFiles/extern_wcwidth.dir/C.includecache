@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sway/MaiQi.COM/blender-2.77a/extern/wcwidth/wcwidth.c
+wchar.h
+-
+wcwidth.h
+/home/sway/MaiQi.COM/blender-2.77a/extern/wcwidth/wcwidth.h
+
+/home/sway/MaiQi.COM/blender-2.77a/extern/wcwidth/wcwidth.h
+wchar.h
+-
+

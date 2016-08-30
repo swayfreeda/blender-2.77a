@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" assignedExecutableTargets="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="Blender" targetName="extern_carve" />
+      <config projectName="Blender" targetName="bf_intern_ghost" />
+      <config projectName="Blender" targetName="bf_nodes" />
+      <config projectName="Blender" targetName="ge_blen_routines" />
+      <config projectName="Blender" targetName="package_archive" />
+      <config projectName="Blender" targetName="ge_logic_expressions" />
+      <config projectName="Blender" targetName="extern_openjpeg" />
+      <config projectName="Blender" targetName="bf_windowmanager" />
+      <config projectName="Blender" targetName="blender" />
+      <config projectName="Blender" targetName="bf_python_mathutils" />
+      <config projectName="Blender" targetName="bf_blenfont" />
+      <config projectName="Blender" targetName="bf_editor_space_nla" />
+      <config projectName="Blender" targetName="bf_editor_space_file" />
+      <config projectName="Blender" targetName="cycles_subd" />
+      <config projectName="Blender" targetName="bf_editor_render" />
+      <config projectName="Blender" targetName="bf_intern_libmv" />
+      <config projectName="Blender" targetName="bf_editor_space_console" />
+      <config projectName="Blender" targetName="bf_editor_screen" />
+      <config projectName="Blender" targetName="bf_intern_audaspace" />
+      <config projectName="Blender" targetName="cycles_util" />
+      <config projectName="Blender" targetName="extern_glog" />
+      <config projectName="Blender" targetName="extern_wcwidth" />
+      <config projectName="Blender" targetName="bf_editor_gpencil" />
+      <config projectName="Blender" targetName="extern_binreloc" />
+      <config projectName="Blender" targetName="bf_intern_smoke" />
+      <config projectName="Blender" targetName="bf_intern_memutil" />
+      <config projectName="Blender" targetName="ge_converter" />
+      <config projectName="Blender" targetName="bf_intern_itasc" />
+      <config projectName="Blender" targetName="ge_phys_bullet" />
+      <config projectName="Blender" targetName="bf_python" />
+      <config projectName="Blender" targetName="bf_ikplugin" />
+      <config projectName="Blender" targetName="bf_editor_space_time" />
+      <config projectName="Blender" targetName="bf_editor_transform" />
+      <config projectName="Blender" targetName="buildinfoobj" />
+      <config projectName="Blender" targetName="datatoc" />
+      <config projectName="Blender" targetName="extern_recastnavigation" />
+      <config projectName="Blender" targetName="cycles_bvh" />
+      <config projectName="Blender" targetName="ge_phys_dummy" />
+      <config projectName="Blender" targetName="bf_editor_space_graph" />
+      <config projectName="Blender" targetName="bf_editor_space_info" />
+      <config projectName="Blender" targetName="cycles_kernel" />
+      <config projectName="Blender" targetName="bf_intern_glew_mx" />
+      <config projectName="Blender" targetName="bf_editor_space_outliner" />
+      <config projectName="Blender" targetName="bf_editor_object" />
+      <config projectName="Blender" targetName="cycles_render" />
+      <config projectName="Blender" targetName="makesrna" />
+      <config projectName="Blender" targetName="ge_logic_network" />
+      <config projectName="Blender" targetName="bf_editor_space_image" />
+      <config projectName="Blender" targetName="bf_editor_animation" />
+      <config projectName="Blender" targetName="bf_editor_metaball" />
+      <config projectName="Blender" targetName="bf_editor_interface" />
+      <config projectName="Blender" targetName="bf_intern_iksolver" />
+      <config projectName="Blender" targetName="buildinfo" />
+      <config projectName="Blender" targetName="bf_dna" />
+      <config projectName="Blender" targetName="bf_intern_rigidbody" />
+      <config projectName="Blender" targetName="bf_python_ext" />
+      <config projectName="Blender" targetName="bf_render" />
+      <config projectName="Blender" targetName="ge_logic_loopbacknetwork" />
+      <config projectName="Blender" targetName="extern_bullet" />
+      <config projectName="Blender" targetName="cycles_device" />
+      <config projectName="Blender" targetName="ge_scenegraph" />
+      <config projectName="Blender" targetName="bf_python_bmesh" />
+      <config projectName="Blender" targetName="bf_editor_space_node" />
+      <config projectName="Blender" targetName="bf_rna" />
+      <config projectName="Blender" targetName="bf_editor_physics" />
+      <config projectName="Blender" targetName="extern_ceres" />
+      <config projectName="Blender" targetName="bf_editor_space_logic" />
+      <config projectName="Blender" targetName="locales" />
+      <config projectName="Blender" targetName="bf_intern_guardedalloc" />
+      <config projectName="Blender" targetName="bf_editor_space_script" />
+      <config projectName="Blender" targetName="bf_editor_space_userpref" />
+      <config projectName="Blender" targetName="bf_gpu" />
+      <config projectName="Blender" targetName="bf_editor_uvedit" />
+      <config projectName="Blender" targetName="bf_imbuf_cineon" />
+      <config projectName="Blender" targetName="extern_rangetree" />
+      <config projectName="Blender" targetName="bf_intern_elbeem" />
+      <config projectName="Blender" targetName="bf_editor_util" />
+      <config projectName="Blender" targetName="bf_editor_space_text" />
+      <config projectName="Blender" targetName="bf_intern_opencolorio" />
+      <config projectName="Blender" targetName="bf_physics" />
+      <config projectName="Blender" targetName="bf_blenloader" />
+      <config projectName="Blender" targetName="ge_logic" />
+      <config projectName="Blender" targetName="bf_imbuf_openimageio" />
+      <config projectName="Blender" targetName="bf_avi" />
+      <config projectName="Blender" targetName="bf_editor_armature" />
+      <config projectName="Blender" targetName="extern_gflags" />
+      <config projectName="Blender" targetName="bf_modifiers" />
+      <config projectName="Blender" targetName="ge_oglrasterizer" />
+      <config projectName="Blender" targetName="bf_editor_mesh" />
+      <config projectName="Blender" targetName="bf_blenlib" />
+      <config projectName="Blender" targetName="bf_editor_mask" />
+      <config projectName="Blender" targetName="bf_editor_space_view3d" />
+      <config projectName="Blender" targetName="bf_blenkernel" />
+      <config projectName="Blender" targetName="msgfmt" />
+      <config projectName="Blender" targetName="bf_editor_space_api" />
+      <config projectName="Blender" targetName="bf_intern_eigen" />
+      <config projectName="Blender" targetName="bf_intern_string" />
+      <config projectName="Blender" targetName="bf_freestyle" />
+      <config projectName="Blender" targetName="bf_imbuf_dds" />
+      <config projectName="Blender" targetName="bf_blentranslation" />
+      <config projectName="Blender" targetName="bf_intern_locale" />
+      <config projectName="Blender" targetName="bf_compositor" />
+      <config projectName="Blender" targetName="bf_imbuf_openexr" />
+      <config projectName="Blender" targetName="bf_dna_blenlib" />
+      <config projectName="Blender" targetName="bf_editor_io" />
+      <config projectName="Blender" targetName="extern_clew" />
+      <config projectName="Blender" targetName="bf_editor_space_action" />
+      <config projectName="Blender" targetName="bf_bmesh" />
+      <config projectName="Blender" targetName="bf_depsgraph" />
+      <config projectName="Blender" targetName="ge_rasterizer" />
+      <config projectName="Blender" targetName="datatoc_icon" />
+      <config projectName="Blender" targetName="extern_minilzo" />
+      <config projectName="Blender" targetName="bf_editor_curve" />
+      <config projectName="Blender" targetName="bf_editor_sound" />
+      <config projectName="Blender" targetName="ge_videotex" />
+      <config projectName="Blender" targetName="bf_editor_space_buttons" />
+      <config projectName="Blender" targetName="makesdna" />
+      <config projectName="Blender" targetName="bf_editor_sculpt_paint" />
+      <config projectName="Blender" targetName="extern_lzma" />
+      <config projectName="Blender" targetName="bf_editor_datafiles" />
+      <config projectName="Blender" targetName="extern_cuew" />
+      <config projectName="Blender" targetName="extern_xdnd" />
+      <config projectName="Blender" targetName="bf_editor_space_clip" />
+      <config projectName="Blender" targetName="bf_editor_space_sequencer" />
+      <config projectName="Blender" targetName="bf_intern_cycles" />
+      <config projectName="Blender" targetName="ge_logic_ngnetwork" />
+      <config projectName="Blender" targetName="bf_intern_dualcon" />
+      <config projectName="Blender" targetName="bf_intern_mikktspace" />
+      <config projectName="Blender" targetName="bf_intern_moto" />
+      <config projectName="Blender" targetName="ge_logic_ketsji" />
+      <config projectName="Blender" targetName="bf_imbuf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="false" GENERATION_PASS_SYSTEM_ENVIRONMENT="true">
+    <ADDITIONAL_GENERATION_ENVIRONMENT>
+      <envs />
+    </ADDITIONAL_GENERATION_ENVIRONMENT>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a475b6bb-f16d-4b4d-af51-2f4d51081d53" name="Default" comment="" />
+    <ignored path="blender-2.77a.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="blender-2.77a" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="206" column="43" selection-start-line="206" selection-start-column="43" selection-end-line="206" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindPackageHandleStandardArgs.cmake" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/bin/cmake/share/cmake-3.5/Modules/FindPackageHandleStandardArgs.cmake">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="148" column="0" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1855" />
+    <option name="height" value="1084" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blender-2.77a" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blender-2.77a" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blender-2.77a" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blender-2.77a" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blender-2.77a" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blender-2.77a" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CMakeLists.txt" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Build All">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="package_archive" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="package_archive" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="package_archive" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="extern_binreloc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="extern_binreloc" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="extern_bullet" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="extern_bullet" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="extern_carve" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="extern_carve" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="extern_ceres" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="extern_ceres" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="extern_clew" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="extern_clew" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="extern_cuew" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="extern_cuew" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="extern_gflags" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="extern_gflags" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="extern_glog" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="extern_glog" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="extern_openjpeg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="extern_openjpeg" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="extern_lzma" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="extern_lzma" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="extern_minilzo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="extern_minilzo" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="extern_rangetree" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="extern_rangetree" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="extern_recastnavigation" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="extern_recastnavigation" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="extern_wcwidth" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="extern_wcwidth" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="extern_xdnd" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="extern_xdnd" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_intern_audaspace" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_intern_audaspace" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_intern_cycles" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_intern_cycles" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="cycles_bvh" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="cycles_bvh" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="cycles_device" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="cycles_device" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="cycles_kernel" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="cycles_kernel" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="cycles_render" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="cycles_render" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="cycles_subd" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="cycles_subd" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="cycles_util" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="cycles_util" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_intern_dualcon" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_intern_dualcon" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_intern_eigen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_intern_eigen" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_intern_elbeem" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_intern_elbeem" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_intern_ghost" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_intern_ghost" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_intern_glew_mx" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_intern_glew_mx" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_intern_guardedalloc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_intern_guardedalloc" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_intern_iksolver" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_intern_iksolver" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_intern_itasc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_intern_itasc" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_intern_libmv" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_intern_libmv" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_intern_locale" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_intern_locale" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="msgfmt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="msgfmt" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Blender" RUN_TARGET_NAME="msgfmt">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_intern_memutil" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_intern_memutil" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_intern_mikktspace" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_intern_mikktspace" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_intern_moto" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_intern_moto" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_intern_opencolorio" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_intern_opencolorio" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_intern_rigidbody" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_intern_rigidbody" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_intern_smoke" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_intern_smoke" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_intern_string" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_intern_string" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_avi" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_avi" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_blenfont" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_blenfont" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_blenkernel" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_blenkernel" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_blenlib" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_blenlib" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_blenloader" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_blenloader" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_blentranslation" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_blentranslation" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_bmesh" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_bmesh" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_compositor" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_compositor" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="datatoc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="datatoc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Blender" RUN_TARGET_NAME="datatoc">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="datatoc_icon" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="datatoc_icon" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Blender" RUN_TARGET_NAME="datatoc_icon">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_depsgraph" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_depsgraph" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_animation" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_animation" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_armature" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_armature" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_curve" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_curve" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_datafiles" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_datafiles" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_gpencil" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_gpencil" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_interface" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_interface" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_io" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_io" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_mask" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_mask" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_mesh" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_mesh" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_metaball" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_metaball" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_object" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_object" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_physics" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_physics" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_render" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_render" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_screen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_screen" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_sculpt_paint" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_sculpt_paint" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_sound" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_sound" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_space_action" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_space_action" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_space_api" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_space_api" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_space_buttons" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_space_buttons" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_space_clip" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_space_clip" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_space_console" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_space_console" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_space_file" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_space_file" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_space_graph" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_space_graph" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_space_image" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_space_image" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_space_info" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_space_info" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_space_logic" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_space_logic" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_space_nla" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_space_nla" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_space_node" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_space_node" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_space_outliner" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_space_outliner" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_space_script" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_space_script" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_space_sequencer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_space_sequencer" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_space_text" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_space_text" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_space_time" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_space_time" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_space_userpref" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_space_userpref" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_space_view3d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_space_view3d" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_transform" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_transform" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_util" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_util" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_editor_uvedit" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_editor_uvedit" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_freestyle" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_freestyle" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_gpu" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_gpu" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_ikplugin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_ikplugin" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_imbuf" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_imbuf" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_imbuf_cineon" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_imbuf_cineon" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_imbuf_dds" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_imbuf_dds" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_imbuf_openimageio" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_imbuf_openimageio" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_imbuf_openexr" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_imbuf_openexr" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_dna" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_dna" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_dna_blenlib" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_dna_blenlib" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="makesdna" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="makesdna" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Blender" RUN_TARGET_NAME="makesdna">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_rna" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_rna" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="makesrna" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="makesrna" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Blender" RUN_TARGET_NAME="makesrna">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_modifiers" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_modifiers" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_nodes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_nodes" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_physics" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_physics" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_python_bmesh" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_python_bmesh" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_python_ext" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_python_ext" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_python" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_python" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_python_mathutils" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_python_mathutils" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_render" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_render" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="bf_windowmanager" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="bf_windowmanager" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="blender" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="blender" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Blender" RUN_TARGET_NAME="blender">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="buildinfo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="buildinfo" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="buildinfoobj" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="buildinfoobj" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="locales" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="locales" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ge_blen_routines" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="ge_blen_routines" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ge_converter" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="ge_converter" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ge_logic_expressions" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="ge_logic_expressions" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ge_logic" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="ge_logic" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ge_logic_ketsji" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="ge_logic_ketsji" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ge_logic_network" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="ge_logic_network" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ge_logic_ngnetwork" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="ge_logic_ngnetwork" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ge_logic_loopbacknetwork" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="ge_logic_loopbacknetwork" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ge_phys_bullet" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="ge_phys_bullet" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ge_phys_dummy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="ge_phys_dummy" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ge_rasterizer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="ge_rasterizer" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ge_oglrasterizer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="ge_oglrasterizer" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ge_scenegraph" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="ge_scenegraph" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ge_videotex" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Blender" TARGET_NAME="ge_videotex" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <list size="132">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.package_archive" />
+      <item index="2" class="java.lang.String" itemvalue="Application.extern_binreloc" />
+      <item index="3" class="java.lang.String" itemvalue="Application.extern_bullet" />
+      <item index="4" class="java.lang.String" itemvalue="Application.extern_carve" />
+      <item index="5" class="java.lang.String" itemvalue="Application.extern_ceres" />
+      <item index="6" class="java.lang.String" itemvalue="Application.extern_clew" />
+      <item index="7" class="java.lang.String" itemvalue="Application.extern_cuew" />
+      <item index="8" class="java.lang.String" itemvalue="Application.extern_gflags" />
+      <item index="9" class="java.lang.String" itemvalue="Application.extern_glog" />
+      <item index="10" class="java.lang.String" itemvalue="Application.extern_openjpeg" />
+      <item index="11" class="java.lang.String" itemvalue="Application.extern_lzma" />
+      <item index="12" class="java.lang.String" itemvalue="Application.extern_minilzo" />
+      <item index="13" class="java.lang.String" itemvalue="Application.extern_rangetree" />
+      <item index="14" class="java.lang.String" itemvalue="Application.extern_recastnavigation" />
+      <item index="15" class="java.lang.String" itemvalue="Application.extern_wcwidth" />
+      <item index="16" class="java.lang.String" itemvalue="Application.extern_xdnd" />
+      <item index="17" class="java.lang.String" itemvalue="Application.bf_intern_audaspace" />
+      <item index="18" class="java.lang.String" itemvalue="Application.bf_intern_cycles" />
+      <item index="19" class="java.lang.String" itemvalue="Application.cycles_bvh" />
+      <item index="20" class="java.lang.String" itemvalue="Application.cycles_device" />
+      <item index="21" class="java.lang.String" itemvalue="Application.cycles_kernel" />
+      <item index="22" class="java.lang.String" itemvalue="Application.cycles_render" />
+      <item index="23" class="java.lang.String" itemvalue="Application.cycles_subd" />
+      <item index="24" class="java.lang.String" itemvalue="Application.cycles_util" />
+      <item index="25" class="java.lang.String" itemvalue="Application.bf_intern_dualcon" />
+      <item index="26" class="java.lang.String" itemvalue="Application.bf_intern_eigen" />
+      <item index="27" class="java.lang.String" itemvalue="Application.bf_intern_elbeem" />
+      <item index="28" class="java.lang.String" itemvalue="Application.bf_intern_ghost" />
+      <item index="29" class="java.lang.String" itemvalue="Application.bf_intern_glew_mx" />
+      <item index="30" class="java.lang.String" itemvalue="Application.bf_intern_guardedalloc" />
+      <item index="31" class="java.lang.String" itemvalue="Application.bf_intern_iksolver" />
+      <item index="32" class="java.lang.String" itemvalue="Application.bf_intern_itasc" />
+      <item index="33" class="java.lang.String" itemvalue="Application.bf_intern_libmv" />
+      <item index="34" class="java.lang.String" itemvalue="Application.bf_intern_locale" />
+      <item index="35" class="java.lang.String" itemvalue="Application.msgfmt" />
+      <item index="36" class="java.lang.String" itemvalue="Application.bf_intern_memutil" />
+      <item index="37" class="java.lang.String" itemvalue="Application.bf_intern_mikktspace" />
+      <item index="38" class="java.lang.String" itemvalue="Application.bf_intern_moto" />
+      <item index="39" class="java.lang.String" itemvalue="Application.bf_intern_opencolorio" />
+      <item index="40" class="java.lang.String" itemvalue="Application.bf_intern_rigidbody" />
+      <item index="41" class="java.lang.String" itemvalue="Application.bf_intern_smoke" />
+      <item index="42" class="java.lang.String" itemvalue="Application.bf_intern_string" />
+      <item index="43" class="java.lang.String" itemvalue="Application.bf_avi" />
+      <item index="44" class="java.lang.String" itemvalue="Application.bf_blenfont" />
+      <item index="45" class="java.lang.String" itemvalue="Application.bf_blenkernel" />
+      <item index="46" class="java.lang.String" itemvalue="Application.bf_blenlib" />
+      <item index="47" class="java.lang.String" itemvalue="Application.bf_blenloader" />
+      <item index="48" class="java.lang.String" itemvalue="Application.bf_blentranslation" />
+      <item index="49" class="java.lang.String" itemvalue="Application.bf_bmesh" />
+      <item index="50" class="java.lang.String" itemvalue="Application.bf_compositor" />
+      <item index="51" class="java.lang.String" itemvalue="Application.datatoc" />
+      <item index="52" class="java.lang.String" itemvalue="Application.datatoc_icon" />
+      <item index="53" class="java.lang.String" itemvalue="Application.bf_depsgraph" />
+      <item index="54" class="java.lang.String" itemvalue="Application.bf_editor_animation" />
+      <item index="55" class="java.lang.String" itemvalue="Application.bf_editor_armature" />
+      <item index="56" class="java.lang.String" itemvalue="Application.bf_editor_curve" />
+      <item index="57" class="java.lang.String" itemvalue="Application.bf_editor_datafiles" />
+      <item index="58" class="java.lang.String" itemvalue="Application.bf_editor_gpencil" />
+      <item index="59" class="java.lang.String" itemvalue="Application.bf_editor_interface" />
+      <item index="60" class="java.lang.String" itemvalue="Application.bf_editor_io" />
+      <item index="61" class="java.lang.String" itemvalue="Application.bf_editor_mask" />
+      <item index="62" class="java.lang.String" itemvalue="Application.bf_editor_mesh" />
+      <item index="63" class="java.lang.String" itemvalue="Application.bf_editor_metaball" />
+      <item index="64" class="java.lang.String" itemvalue="Application.bf_editor_object" />
+      <item index="65" class="java.lang.String" itemvalue="Application.bf_editor_physics" />
+      <item index="66" class="java.lang.String" itemvalue="Application.bf_editor_render" />
+      <item index="67" class="java.lang.String" itemvalue="Application.bf_editor_screen" />
+      <item index="68" class="java.lang.String" itemvalue="Application.bf_editor_sculpt_paint" />
+      <item index="69" class="java.lang.String" itemvalue="Application.bf_editor_sound" />
+      <item index="70" class="java.lang.String" itemvalue="Application.bf_editor_space_action" />
+      <item index="71" class="java.lang.String" itemvalue="Application.bf_editor_space_api" />
+      <item index="72" class="java.lang.String" itemvalue="Application.bf_editor_space_buttons" />
+      <item index="73" class="java.lang.String" itemvalue="Application.bf_editor_space_clip" />
+      <item index="74" class="java.lang.String" itemvalue="Application.bf_editor_space_console" />
+      <item index="75" class="java.lang.String" itemvalue="Application.bf_editor_space_file" />
+      <item index="76" class="java.lang.String" itemvalue="Application.bf_editor_space_graph" />
+      <item index="77" class="java.lang.String" itemvalue="Application.bf_editor_space_image" />
+      <item index="78" class="java.lang.String" itemvalue="Application.bf_editor_space_info" />
+      <item index="79" class="java.lang.String" itemvalue="Application.bf_editor_space_logic" />
+      <item index="80" class="java.lang.String" itemvalue="Application.bf_editor_space_nla" />
+      <item index="81" class="java.lang.String" itemvalue="Application.bf_editor_space_node" />
+      <item index="82" class="java.lang.String" itemvalue="Application.bf_editor_space_outliner" />
+      <item index="83" class="java.lang.String" itemvalue="Application.bf_editor_space_script" />
+      <item index="84" class="java.lang.String" itemvalue="Application.bf_editor_space_sequencer" />
+      <item index="85" class="java.lang.String" itemvalue="Application.bf_editor_space_text" />
+      <item index="86" class="java.lang.String" itemvalue="Application.bf_editor_space_time" />
+      <item index="87" class="java.lang.String" itemvalue="Application.bf_editor_space_userpref" />
+      <item index="88" class="java.lang.String" itemvalue="Application.bf_editor_space_view3d" />
+      <item index="89" class="java.lang.String" itemvalue="Application.bf_editor_transform" />
+      <item index="90" class="java.lang.String" itemvalue="Application.bf_editor_util" />
+      <item index="91" class="java.lang.String" itemvalue="Application.bf_editor_uvedit" />
+      <item index="92" class="java.lang.String" itemvalue="Application.bf_freestyle" />
+      <item index="93" class="java.lang.String" itemvalue="Application.bf_gpu" />
+      <item index="94" class="java.lang.String" itemvalue="Application.bf_ikplugin" />
+      <item index="95" class="java.lang.String" itemvalue="Application.bf_imbuf" />
+      <item index="96" class="java.lang.String" itemvalue="Application.bf_imbuf_cineon" />
+      <item index="97" class="java.lang.String" itemvalue="Application.bf_imbuf_dds" />
+      <item index="98" class="java.lang.String" itemvalue="Application.bf_imbuf_openimageio" />
+      <item index="99" class="java.lang.String" itemvalue="Application.bf_imbuf_openexr" />
+      <item index="100" class="java.lang.String" itemvalue="Application.bf_dna" />
+      <item index="101" class="java.lang.String" itemvalue="Application.bf_dna_blenlib" />
+      <item index="102" class="java.lang.String" itemvalue="Application.makesdna" />
+      <item index="103" class="java.lang.String" itemvalue="Application.bf_rna" />
+      <item index="104" class="java.lang.String" itemvalue="Application.makesrna" />
+      <item index="105" class="java.lang.String" itemvalue="Application.bf_modifiers" />
+      <item index="106" class="java.lang.String" itemvalue="Application.bf_nodes" />
+      <item index="107" class="java.lang.String" itemvalue="Application.bf_physics" />
+      <item index="108" class="java.lang.String" itemvalue="Application.bf_python_bmesh" />
+      <item index="109" class="java.lang.String" itemvalue="Application.bf_python_ext" />
+      <item index="110" class="java.lang.String" itemvalue="Application.bf_python" />
+      <item index="111" class="java.lang.String" itemvalue="Application.bf_python_mathutils" />
+      <item index="112" class="java.lang.String" itemvalue="Application.bf_render" />
+      <item index="113" class="java.lang.String" itemvalue="Application.bf_windowmanager" />
+      <item index="114" class="java.lang.String" itemvalue="Application.blender" />
+      <item index="115" class="java.lang.String" itemvalue="Application.buildinfo" />
+      <item index="116" class="java.lang.String" itemvalue="Application.buildinfoobj" />
+      <item index="117" class="java.lang.String" itemvalue="Application.locales" />
+      <item index="118" class="java.lang.String" itemvalue="Application.ge_blen_routines" />
+      <item index="119" class="java.lang.String" itemvalue="Application.ge_converter" />
+      <item index="120" class="java.lang.String" itemvalue="Application.ge_logic_expressions" />
+      <item index="121" class="java.lang.String" itemvalue="Application.ge_logic" />
+      <item index="122" class="java.lang.String" itemvalue="Application.ge_logic_ketsji" />
+      <item index="123" class="java.lang.String" itemvalue="Application.ge_logic_network" />
+      <item index="124" class="java.lang.String" itemvalue="Application.ge_logic_ngnetwork" />
+      <item index="125" class="java.lang.String" itemvalue="Application.ge_logic_loopbacknetwork" />
+      <item index="126" class="java.lang.String" itemvalue="Application.ge_phys_bullet" />
+      <item index="127" class="java.lang.String" itemvalue="Application.ge_phys_dummy" />
+      <item index="128" class="java.lang.String" itemvalue="Application.ge_rasterizer" />
+      <item index="129" class="java.lang.String" itemvalue="Application.ge_oglrasterizer" />
+      <item index="130" class="java.lang.String" itemvalue="Application.ge_scenegraph" />
+      <item index="131" class="java.lang.String" itemvalue="Application.ge_videotex" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a475b6bb-f16d-4b4d-af51-2f4d51081d53" name="Default" comment="" />
+      <created>1472549078973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1472549078973</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11420765" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27645788" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947233" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_HOME_DIR$/bin/cmake/share/cmake-3.5/Modules/FindPackageHandleStandardArgs.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="148" column="0" selection-start-line="148" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="206" column="43" selection-start-line="206" selection-start-column="43" selection-end-line="206" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

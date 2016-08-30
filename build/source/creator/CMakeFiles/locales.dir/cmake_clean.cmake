@@ -1,0 +1,40 @@
+FILE(REMOVE_RECURSE
+  "CMakeFiles/locales"
+  "id.mo"
+  "pt.mo"
+  "tr.mo"
+  "pl.mo"
+  "sr.mo"
+  "vi.mo"
+  "es_ES.mo"
+  "fa.mo"
+  "cs.mo"
+  "he.mo"
+  "ja.mo"
+  "eo.mo"
+  "sr@latin.mo"
+  "nl.mo"
+  "it.mo"
+  "es.mo"
+  "ca.mo"
+  "ru.mo"
+  "eu.mo"
+  "zh_TW.mo"
+  "hi.mo"
+  "hr.mo"
+  "sv.mo"
+  "de.mo"
+  "ko.mo"
+  "ky.mo"
+  "fr.mo"
+  "hu.mo"
+  "pt_BR.mo"
+  "uk.mo"
+  "ar.mo"
+  "zh_CN.mo"
+)
+
+# Per-language clean rules from dependency scanning.
+FOREACH(lang)
+  INCLUDE(CMakeFiles/locales.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)

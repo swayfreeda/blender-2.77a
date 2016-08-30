@@ -1,0 +1,196 @@
+Performing C++ SOURCE FILE Test HAVE_SHARED_PTR_IN_STD_NAMESPACE failed with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1876619520/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1876619520.dir/build.make CMakeFiles/cmTryCompileExec1876619520.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1876619520.dir/src.cxx.o
+/usr/bin/c++    -DHAVE_SHARED_PTR_IN_STD_NAMESPACE   -o CMakeFiles/cmTryCompileExec1876619520.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx: In function ‘int main()’:
+/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx:3:32: error: ‘shared_ptr’ is not a member of ‘std’
+                                std::shared_ptr<int> int_ptr;
+                                ^
+/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx:3:48: error: expected primary-expression before ‘int’
+                                std::shared_ptr<int> int_ptr;
+                                                ^
+make[1]: *** [CMakeFiles/cmTryCompileExec1876619520.dir/src.cxx.o] 错误 1
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec1876619520/fast] 错误 2
+
+Source file was:
+#include <memory>
+		                           int main() {
+		                             std::shared_ptr<int> int_ptr;
+		                             return 0;
+		                           }
+Performing C++ SOURCE FILE Test HAVE_SHARED_PTR_IN_TR1_NAMESPACE failed with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec257923706/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec257923706.dir/build.make CMakeFiles/cmTryCompileExec257923706.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec257923706.dir/src.cxx.o
+/usr/bin/c++    -DHAVE_SHARED_PTR_IN_TR1_NAMESPACE   -o CMakeFiles/cmTryCompileExec257923706.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx: In function ‘int main()’:
+/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx:3:36: error: ‘std::tr1’ has not been declared
+                               std::tr1::shared_ptr<int> int_ptr;
+                                    ^
+/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx:3:52: error: expected primary-expression before ‘int’
+                               std::tr1::shared_ptr<int> int_ptr;
+                                                    ^
+make[1]: *** [CMakeFiles/cmTryCompileExec257923706.dir/src.cxx.o] 错误 1
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec257923706/fast] 错误 2
+
+Source file was:
+#include <memory>
+			                           int main() {
+			                           std::tr1::shared_ptr<int> int_ptr;
+			                           return 0;
+			                           }
+Determining if the include file unordered_map exists failed with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec450200639/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec450200639.dir/build.make CMakeFiles/cmTryCompileExec450200639.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec450200639.dir/CheckIncludeFile.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTryCompileExec450200639.dir/CheckIncludeFile.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CheckIncludeFile.cxx
+In file included from /usr/include/c++/4.9/unordered_map:35:0,
+                 from /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CheckIncludeFile.cxx:1:
+/usr/include/c++/4.9/bits/c++0x_warning.h:32:2: error: #error This file requires compiler and library support for the ISO C++ 2011 standard. This support is currently experimental, and must be enabled with the -std=c++11 or -std=gnu++11 compiler options.
+ #error This file requires compiler and library support for the \
+  ^
+make[1]: *** [CMakeFiles/cmTryCompileExec450200639.dir/CheckIncludeFile.cxx.o] 错误 1
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec450200639/fast] 错误 2
+
+
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec607647251/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec607647251.dir/build.make CMakeFiles/cmTryCompileExec607647251.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec607647251.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec607647251.dir/CheckSymbolExists.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTryCompileExec607647251
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec607647251.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTryCompileExec607647251.dir/CheckSymbolExists.c.o  -o cmTryCompileExec607647251 -rdynamic 
+CMakeFiles/cmTryCompileExec607647251.dir/CheckSymbolExists.c.o：在函数‘main’中：
+CheckSymbolExists.c:(.text+0x16)：对‘pthread_create’未定义的引用
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTryCompileExec607647251] 错误 1
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec607647251/fast] 错误 2
+
+File /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec3859731723/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3859731723.dir/build.make CMakeFiles/cmTryCompileExec3859731723.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3859731723.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTryCompileExec3859731723.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec3859731723
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3859731723.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTryCompileExec3859731723.dir/CheckFunctionExists.c.o  -o cmTryCompileExec3859731723 -rdynamic -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTryCompileExec3859731723] 错误 1
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec3859731723/fast] 错误 2
+
+
+Determining if the system is big endian passed with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec2178548320/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2178548320.dir/build.make CMakeFiles/cmTryCompileExec2178548320.dir/build
+make[1]: 正在进入目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2178548320.dir/TestEndianess.c.o
+/usr/bin/cc   -fuse-ld=gold    -o CMakeFiles/cmTryCompileExec2178548320.dir/TestEndianess.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/TestEndianess.c
+Linking C executable cmTryCompileExec2178548320
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2178548320.dir/link.txt --verbose=1
+/usr/bin/cc   -fuse-ld=gold     CMakeFiles/cmTryCompileExec2178548320.dir/TestEndianess.c.o  -o cmTryCompileExec2178548320 -rdynamic 
+make[1]:正在离开目录 `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+
+TestEndianess.c:
+/* A 16 bit integer is required. */
+typedef unsigned short cmakeint16;
+
+/* On a little endian machine, these 16bit ints will give "THIS IS LITTLE ENDIAN."
+   On a big endian machine the characters will be exchanged pairwise. */
+const cmakeint16 info_little[] =  {0x4854, 0x5349, 0x4920, 0x2053, 0x494c, 0x5454, 0x454c, 0x4520, 0x444e, 0x4149, 0x2e4e, 0x0000};
+
+/* on a big endian machine, these 16bit ints will give "THIS IS BIG ENDIAN."
+   On a little endian machine the characters will be exchanged pairwise. */
+const cmakeint16 info_big[] =     {0x5448, 0x4953, 0x2049, 0x5320, 0x4249, 0x4720, 0x454e, 0x4449, 0x414e, 0x2e2e, 0x0000};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_little[argc];
+  require += info_big[argc];
+  (void)argv;
+  return require;
+}
+
+
+Performing C SOURCE FILE Test C_WARN_FORMAT_SIGN failed with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1371677179/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1371677179.dir/build.make CMakeFiles/cmTryCompileExec1371677179.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1371677179.dir/src.c.o
+/usr/bin/cc   -fuse-ld=gold -fopenmp -DC_WARN_FORMAT_SIGN   -Wformat-signedness -o CMakeFiles/cmTryCompileExec1371677179.dir/src.c.o   -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.c
+gcc.real: error: unrecognized command line option '-Wformat-signedness'
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+make[1]: *** [CMakeFiles/cmTryCompileExec1371677179.dir/src.c.o] Error 1
+make: *** [cmTryCompileExec1371677179/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test CXX_WARN_FORMAT_SIGN failed with the following output:
+Change Dir: /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1813976203/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1813976203.dir/build.make CMakeFiles/cmTryCompileExec1813976203.dir/build
+make[1]: Entering directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1813976203.dir/src.cxx.o
+/usr/bin/c++    -fuse-ld=gold -fopenmp -DCXX_WARN_FORMAT_SIGN   -Wformat-signedness -o CMakeFiles/cmTryCompileExec1813976203.dir/src.cxx.o -c /home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp/src.cxx
+g++.real: error: unrecognized command line option '-Wformat-signedness'
+make[1]: *** [CMakeFiles/cmTryCompileExec1813976203.dir/src.cxx.o] Error 1
+make[1]: Leaving directory `/home/sway/MaiQi.COM/blender-2.77a/build/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec1813976203/fast] Error 2
+
+Source file was:
+int main() { return 0;}
