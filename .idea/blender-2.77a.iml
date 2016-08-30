@@ -7202,6 +7202,7 @@
           <root url="file:///opt/lib/oiio/include" />
           <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/blender-2_77a-15c513b5/15c513b5/Release/source/blender/makesrna/intern" />
           <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/blender-2_77a-15c513b5/15c513b5/Release/source/creator" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/blender-2_77a-15c513b5/15c513b5/Debug/source/blender/compositor/operations" />
           <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/blender-2_77a-15c513b5/15c513b5/Debug/source/blender/makesrna/intern" />
           <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/blender-2_77a-15c513b5/15c513b5/Debug/source/creator" />
           <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/blender-2_77a-15c513b5/15c513b5/RelWithDebInfo/source/blender/makesrna/intern" />
@@ -7218,6 +7219,7 @@
           <root url="file:///opt/lib/oiio/include" />
           <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/blender-2_77a-15c513b5/15c513b5/Release/source/blender/makesrna/intern" />
           <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/blender-2_77a-15c513b5/15c513b5/Release/source/creator" />
+          <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/blender-2_77a-15c513b5/15c513b5/Debug/source/blender/compositor/operations" />
           <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/blender-2_77a-15c513b5/15c513b5/Debug/source/blender/makesrna/intern" />
           <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/blender-2_77a-15c513b5/15c513b5/Debug/source/creator" />
           <root url="file://$USER_HOME$/.CLion2016.1/system/cmake/generated/blender-2_77a-15c513b5/15c513b5/RelWithDebInfo/source/blender/makesrna/intern" />
